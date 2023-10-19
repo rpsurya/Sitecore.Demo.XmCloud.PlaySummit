@@ -1,0 +1,19 @@
+﻿---
+ID: "df3653ed-3b61-417d-9e1f-3f5091e8792b"
+Parent: "a09f1ac2-02e4-4ba1-83d9-4fc3f16ec530"
+Template: "a09f1ac2-02e4-4ba1-83d9-4fc3f16ec530"
+Path: /sitecore/templates/Project/Global/MyComponent/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "7959114f-9bee-46c2-979f-cb53040d3242"
+      Hint: body
+      Value: Test body
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "68a91519-a90c-4964-9ca9-1e06f6d9999e"
+    - ID: "bf7d2ec9-ffc2-4d09-b09b-1559062648fe"
+      Hint: heading
+      Value: Test Heading

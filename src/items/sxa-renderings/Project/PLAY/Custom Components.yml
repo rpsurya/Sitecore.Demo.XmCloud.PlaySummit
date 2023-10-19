@@ -1,0 +1,13 @@
+﻿---
+ID: "df1380b6-6b9b-4807-8d24-3d10b3caff50"
+Parent: "d876ffec-e6ee-479c-9f3a-a75a67fc4471"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Project/PLAY/Custom Components
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b45d7b4-51e6-4ad6-8f48-b957d8d27592"

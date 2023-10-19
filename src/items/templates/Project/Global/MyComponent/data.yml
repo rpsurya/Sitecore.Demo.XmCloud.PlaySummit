@@ -1,0 +1,13 @@
+﻿---
+ID: "c878c163-f90f-4dad-b6c8-b15f6712b36f"
+Parent: "a09f1ac2-02e4-4ba1-83d9-4fc3f16ec530"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Global/MyComponent/data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25fc8fbc-4928-4eba-b9aa-149406a1a0cd"
