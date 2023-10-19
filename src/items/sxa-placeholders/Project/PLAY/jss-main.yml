@@ -42,6 +42,7 @@ SharedFields:
     {CD870284-AF1A-5BF5-AD99-5143C989BA47}
     {08A71664-6AF2-4CDB-A1EC-F27D4939EE3A}
     {DCC3725E-8F7E-58DF-A17B-FE153FBCE627}
+    {97E5FE39-1FA1-4971-BCBB-640DA4EE932C}
 Languages:
 - Language: en
   Fields:
@@ -53,4 +54,4 @@ Languages:
     Fields:
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "9ab4a8dd-c92c-42d7-acff-6908aef26951"
+      Value: "9c4f954c-c3d8-40b6-8d2d-cf408f507fc1"
