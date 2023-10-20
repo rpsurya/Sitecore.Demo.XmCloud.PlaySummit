@@ -11,4 +11,5 @@ const MyComponent = (props: MyComponentProps): JSX.Element => (
     <RichText field={props.fields.body} />
   </div>
 );
-export default MyComponent;
+
+export const Default = MyComponent;
